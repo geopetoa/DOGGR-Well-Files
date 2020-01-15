@@ -5,7 +5,7 @@ Purpose: Batch download well files from DOGGR FTP server.
          
 Data:    Data will be scraped from Division of Oil, Gas and Geothermal Resources (DOGGR)
 
-Tools:   Beautifulsoup
+Tools:   Beautifulsoup, Urllib, Requests
 
 Instructions: 
 
