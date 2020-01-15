@@ -1,8 +1,11 @@
 # DOGGR-Well-Files
 
-Batch download well files from DOGGR FTP server. 
+Purpose: Batch download well files from DOGGR FTP server. 
+         Well files are downloaded into well-name spesific folders.
+         
+Data:    Data will be scraped from Division of Oil, Gas and Geothermal Resources (DOGGR)
 
-Well files are downloaded into seperate well folders.
+Tools:   Beautifulsoup
 
 Instructions: 
 
