@@ -17,4 +17,4 @@ Instructions:
 
 -Run the code
 
--All well files from the FTP will be downloaded and placed into spesicic folder named per well. 
+-Well files from the DOGGR FTP will be downloaded and placed into well-name spesicic folder. 
